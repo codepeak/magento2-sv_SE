@@ -109,7 +109,7 @@ Total,Total,module,Magento_Backend
 "Average Order","Average Order",module,Magento_Backend
 Average,Average,module,Magento_Backend
 Product,Product,module,Magento_Backend
-Price,Price,module,Magento_Backend
+Price,Pris,module,Magento_Backend
 Quantity,Quantity,module,Magento_Backend
 Views,Views,module,Magento_Backend
 Revenue,Revenue,module,Magento_Backend
@@ -498,7 +498,7 @@ Close,Close,module,Magento_Bundle
 ID,ID,module,Magento_Bundle
 Product,Product,module,Magento_Bundle
 SKU,SKU,module,Magento_Bundle
-Price,Price,module,Magento_Bundle
+Price,Pris,module,Magento_Bundle
 Delete,Delete,module,Magento_Bundle
 "Use Default Value","Use Default Value",module,Magento_Bundle
 "There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type.",module,Magento_Bundle
@@ -1247,7 +1247,7 @@ Groups,Groups,module,Magento_Catalog
 "Product offline","Product offline",module,Magento_Catalog
 "Product online status","Product online status",module,Magento_Catalog
 "Manage Stock","Manage Stock",module,Magento_Catalog
-Qty,Qty,module,Magento_Catalog
+Qty,Antal,module,Magento_Catalog
 "Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_Catalog
 "Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_Catalog
 "Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_Catalog
@@ -1443,8 +1443,8 @@ Message,Message,module,Magento_Checkout
 "Cancel Coupon","Cancel Coupon",module,Magento_Checkout
 "Shopping Cart Items","Shopping Cart Items",module,Magento_Checkout
 Item,Vara,module,Magento_Checkout
-Price,Price,module,Magento_Checkout
-Qty,Qty,module,Magento_Checkout
+Price,Pris,module,Magento_Checkout
+Qty,Antal,module,Magento_Checkout
 Subtotal,Subtotal,module,Magento_Checkout
 "Continue Shopping","Fortsätt handla",module,Magento_Checkout
 "Clear Shopping Cart","Töm varukorg",module,Magento_Checkout
@@ -1705,7 +1705,7 @@ Done,Done,module,Magento_ConfigurableProduct
 Image,Image,module,Magento_ConfigurableProduct
 Name,Name,module,Magento_ConfigurableProduct
 SKU,SKU,module,Magento_ConfigurableProduct
-Price,Price,module,Magento_ConfigurableProduct
+Price,Pris,module,Magento_ConfigurableProduct
 Quantity,Quantity,module,Magento_ConfigurableProduct
 Weight,Weight,module,Magento_ConfigurableProduct
 Status,Status,module,Magento_ConfigurableProduct
@@ -1849,7 +1849,7 @@ ID,ID,module,Magento_Customer
 Product,Product,module,Magento_Customer
 SKU,SKU,module,Magento_Customer
 Quantity,Quantity,module,Magento_Customer
-Price,Price,module,Magento_Customer
+Price,Pris,module,Magento_Customer
 Total,Total,module,Magento_Customer
 Action,Action,module,Magento_Customer
 Configure,Configure,module,Magento_Customer
@@ -1881,7 +1881,7 @@ Purchased,Purchased,module,Magento_Customer
 "Purchase Point","Purchase Point",module,Magento_Customer
 "Customer View","Customer View",module,Magento_Customer
 "There are no items in customer's shopping cart.","There are no items in customer's shopping cart.",module,Magento_Customer
-Qty,Qty,module,Magento_Customer
+Qty,Antal,module,Magento_Customer
 Confirmed,Confirmed,module,Magento_Customer
 "Confirmation Required","Confirmation Required",module,Magento_Customer
 "Confirmation Not Required","Confirmation Not Required",module,Magento_Customer
@@ -2335,7 +2335,7 @@ Title,Title,module,Magento_Downloadable
 "Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
 "Add Link","Add Link",module,Magento_Downloadable
-Price,Price,module,Magento_Downloadable
+Price,Pris,module,Magento_Downloadable
 File,File,module,Magento_Downloadable
 Sample,Sample,module,Magento_Downloadable
 Shareable,Shareable,module,Magento_Downloadable
@@ -2375,7 +2375,7 @@ From:,From:,module,Magento_Downloadable
 To:,To:,module,Magento_Downloadable
 Message:,Message:,module,Magento_Downloadable
 "Product Name","Produktnamn",module,Magento_Downloadable
-Qty,Qty,module,Magento_Downloadable
+Qty,Antal,module,Magento_Downloadable
 Subtotal,Subtotal,module,Magento_Downloadable
 "Discount Amount","Discount Amount",module,Magento_Downloadable
 "Row Total","Row Total",module,Magento_Downloadable
@@ -2716,14 +2716,14 @@ Name,Name,module,Magento_GroupedProduct
 "Attribute Set","Attribute Set",module,Magento_GroupedProduct
 Status,Status,module,Magento_GroupedProduct
 SKU,SKU,module,Magento_GroupedProduct
-Price,Price,module,Magento_GroupedProduct
+Price,Pris,module,Magento_GroupedProduct
 "Default Quantity","Default Quantity",module,Magento_GroupedProduct
 Actions,Actions,module,Magento_GroupedProduct
 "Associated Products","Associated Products",module,Magento_GroupedProduct
 Availability:,Availability:,module,Magento_GroupedProduct
 "Out of stock","Ej i lager",module,Magento_GroupedProduct
 "Product Name","Produktnamn",module,Magento_GroupedProduct
-Qty,Qty,module,Magento_GroupedProduct
+Qty,Antal,module,Magento_GroupedProduct
 "No options of this product are available.","No options of this product are available.",module,Magento_GroupedProduct
 "There are no grouped products.","There are no grouped products.",module,Magento_GroupedProduct
 "Default Qty","Default Qty",module,Magento_GroupedProduct
@@ -3021,7 +3021,7 @@ Database,Database,module,Magento_MediaStorage
 "What's this?","What's this?",module,Magento_Msrp
 "Order total will be displayed before you submit the order","Order total will be displayed before you submit the order",module,Magento_Msrp
 "You will see the order total before you submit the order.","You will see the order total before you submit the order.",module,Magento_Msrp
-Price,Price,module,Magento_Msrp
+Price,Pris,module,Magento_Msrp
 "Actual Price","Actual Price",module,Magento_Msrp
 "Add to Cart","Lägg i varukorgen",module,Magento_Msrp
 "Change Billing Address","Change Billing Address",module,Magento_Multishipping
@@ -3062,7 +3062,7 @@ Total,Total,module,Magento_Multishipping
 "Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
 "Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
 Product,Product,module,Magento_Multishipping
-Qty,Qty,module,Magento_Multishipping
+Qty,Antal,module,Magento_Multishipping
 "Send To","Send To",module,Magento_Multishipping
 "A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
 Actions,Actions,module,Magento_Multishipping
@@ -3090,7 +3090,7 @@ Change,Change,module,Magento_Multishipping
 "Order Review","Order Review",module,Magento_Multishipping
 Item,Item,module,Magento_Multishipping
 Edit,Edit,module,Magento_Multishipping
-Price,Price,module,Magento_Multishipping
+Price,Pris,module,Magento_Multishipping
 Subtotal,Subtotal,module,Magento_Multishipping
 Items,Items,module,Magento_Multishipping
 "Grand Total:","Grand Total:",module,Magento_Multishipping
@@ -3699,8 +3699,8 @@ Edit,Edit,module,Magento_Paypal
 "Place Order","Place Order",module,Magento_Paypal
 "Submitting order information...","Submitting order information...",module,Magento_Paypal
 Item,Item,module,Magento_Paypal
-Price,Price,module,Magento_Paypal
-Qty,Qty,module,Magento_Paypal
+Price,Pris,module,Magento_Paypal
+Qty,Antal,module,Magento_Paypal
 Subtotal,Subtotal,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates",module,Magento_Paypal
 or,or,module,Magento_Paypal
@@ -3856,7 +3856,7 @@ Unlimited,Unlimited,module,Magento_Reports
 "Show Report","Show Report",module,Magento_Reports
 Interval,Interval,module,Magento_Reports
 Total,Total,module,Magento_Reports
-Price,Price,module,Magento_Reports
+Price,Pris,module,Magento_Reports
 Views,Views,module,Magento_Reports
 "Refresh Statistics","Refresh Statistics",module,Magento_Reports
 "Customers Reviews","Customers Reviews",module,Magento_Reports
@@ -4035,7 +4035,7 @@ Customer,Customer,module,Magento_Review
 "All Reviews","All Reviews",module,Magento_Review
 Name,Name,module,Magento_Review
 "Product Store Name","Product Store Name",module,Magento_Review
-Price,Price,module,Magento_Review
+Price,Pris,module,Magento_Review
 Quantity,Quantity,module,Magento_Review
 Websites,Websites,module,Magento_Review
 "Manage Ratings","Manage Ratings",module,Magento_Review
@@ -4330,7 +4330,7 @@ Configure,Configure,module,Magento_Sales
 ID,ID,module,Magento_Sales
 Product,Product,module,Magento_Sales
 SKU,SKU,module,Magento_Sales
-Price,Price,module,Magento_Sales
+Price,Pris,module,Magento_Sales
 Select,Select,module,Magento_Sales
 Quantity,Quantity,module,Magento_Sales
 "Shipping Address","Shipping Address",module,Magento_Sales
@@ -4672,7 +4672,7 @@ Number,Number,module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array.",module,Magento_Sales
 Products,Products,module,Magento_Sales
 "Total (ex)","Total (ex)",module,Magento_Sales
-Qty,Qty,module,Magento_Sales
+Qty,Antal,module,Magento_Sales
 Tax,Tax,module,Magento_Sales
 "Total (inc)","Total (inc)",module,Magento_Sales
 "Credit Memo # ","Credit Memo # ",module,Magento_Sales
@@ -5098,7 +5098,7 @@ Girth,Girth,module,Magento_Shipping
 Product,Product,module,Magento_Shipping
 Weight,Weight,module,Magento_Shipping
 "Qty Ordered","Qty Ordered",module,Magento_Shipping
-Qty,Qty,module,Magento_Shipping
+Qty,Antal,module,Magento_Shipping
 "No detail for number ""%1""","No detail for number ""%1""",module,Magento_Shipping
 "Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
 "Response info is not exist.","Response info is not exist.",module,Magento_Shipping
@@ -6104,7 +6104,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Update Wish List","Update Wish List",module,Magento_Wishlist
 "Move to Wishlist","Move to Wishlist",module,Magento_Wishlist
 "View Product","View Product",module,Magento_Wishlist
-Qty,Qty,module,Magento_Wishlist
+Qty,Antal,module,Magento_Wishlist
 "Add to Cart","Lägg i varukorgen",module,Magento_Wishlist
 Availability,Availability,module,Magento_Wishlist
 "In stock","I lager",module,Magento_Wishlist
@@ -7654,7 +7654,7 @@ Instructions,Instructions,module,Magento_OfflinePayments
 "Flat Rate","Flat Rate",module,Magento_OfflineShipping
 Enabled,Enabled,module,Magento_OfflineShipping
 "Method Name","Method Name",module,Magento_OfflineShipping
-Price,Price,module,Magento_OfflineShipping
+Price,Pris,module,Magento_OfflineShipping
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_OfflineShipping
 "Handling Fee","Handling Fee",module,Magento_OfflineShipping
 "Sort Order","Sort Order",module,Magento_OfflineShipping
