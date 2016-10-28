@@ -497,7 +497,7 @@ Close,Close,module,Magento_Bundle
 "What are you looking for?","What are you looking for?",module,Magento_Bundle
 ID,ID,module,Magento_Bundle
 Product,Product,module,Magento_Bundle
-SKU,SKU,module,Magento_Bundle
+SKU,Artikelnummer,module,Magento_Bundle
 Price,Pris,module,Magento_Bundle
 Delete,Delete,module,Magento_Bundle
 "Use Default Value","Use Default Value",module,Magento_Bundle
@@ -676,7 +676,7 @@ Conditions,Conditions,module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRule
 Type,Type,module,Magento_CatalogRule
 "Attribute Set","Attribute Set",module,Magento_CatalogRule
-SKU,SKU,module,Magento_CatalogRule
+SKU,Artikelnummer,module,Magento_CatalogRule
 Product,Product,module,Magento_CatalogRule
 Promotions,Promotions,module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.",module,Magento_CatalogRule
@@ -750,7 +750,7 @@ name,name,module,Magento_CatalogSearch
 "Create Permanent Redirect for old URL","Create Permanent Redirect for old URL",module,Magento_CatalogUrlRewrite
 "Conditions Combination","Conditions Combination",module,Magento_CatalogWidget
 "Product Attribute","Product Attribute",module,Magento_CatalogWidget
-SKU,SKU,module,Magento_CatalogWidget
+SKU,Artikelnummer,module,Magento_CatalogWidget
 "Please choose a condition to add.","Please choose a condition to add.",module,Magento_CatalogWidget
 "Add to Cart","Lägg i varukorgen",module,Magento_CatalogWidget
 "In stock","I lager",module,Magento_CatalogWidget
@@ -764,7 +764,7 @@ Save,Save,module,Magento_Catalog
 "Use All Available Attributes","Use All Available Attributes",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
 Name,Name,module,Magento_Catalog
-SKU,SKU,module,Magento_Catalog
+SKU,Artikelnummer,module,Magento_Catalog
 Price,Pris,module,Magento_Catalog
 Position,Position,module,Magento_Catalog
 "Add Subcategory","Add Subcategory",module,Magento_Catalog
@@ -1704,7 +1704,7 @@ Done,Done,module,Magento_ConfigurableProduct
 "Current Variations","Current Variations",module,Magento_ConfigurableProduct
 Image,Image,module,Magento_ConfigurableProduct
 Name,Name,module,Magento_ConfigurableProduct
-SKU,SKU,module,Magento_ConfigurableProduct
+SKU,Artikelnummer,module,Magento_ConfigurableProduct
 Price,Pris,module,Magento_ConfigurableProduct
 Quantity,Quantity,module,Magento_ConfigurableProduct
 Weight,Weight,module,Magento_ConfigurableProduct
@@ -1847,7 +1847,7 @@ Back,Back,module,Magento_Customer
 Reset,Reset,module,Magento_Customer
 ID,ID,module,Magento_Customer
 Product,Product,module,Magento_Customer
-SKU,SKU,module,Magento_Customer
+SKU,Artikelnummer,module,Magento_Customer
 Quantity,Quantity,module,Magento_Customer
 Price,Pris,module,Magento_Customer
 Total,Total,module,Magento_Customer
@@ -2352,7 +2352,7 @@ sample,sample,module,Magento_Downloadable
 "Browse Files...","Browse Files...",module,Magento_Downloadable
 Delete,Delete,module,Magento_Downloadable
 "Add product preview files here.","Add product preview files here.",module,Magento_Downloadable
-SKU,SKU,module,Magento_Downloadable
+SKU,Artikelnummer,module,Magento_Downloadable
 U,U,module,Magento_Downloadable
 "Select all","Select all",module,Magento_Downloadable
 "Unselect all","Unselect all",module,Magento_Downloadable
@@ -2715,7 +2715,7 @@ Thumbnail,Thumbnail,module,Magento_GroupedProduct
 Name,Name,module,Magento_GroupedProduct
 "Attribute Set","Attribute Set",module,Magento_GroupedProduct
 Status,Status,module,Magento_GroupedProduct
-SKU,SKU,module,Magento_GroupedProduct
+SKU,Artikelnummer,module,Magento_GroupedProduct
 Price,Pris,module,Magento_GroupedProduct
 "Default Quantity","Default Quantity",module,Magento_GroupedProduct
 Actions,Actions,module,Magento_GroupedProduct
@@ -3845,7 +3845,7 @@ Refresh,Refresh,module,Magento_Reports
 Downloads,Downloads,module,Magento_Reports
 Product,Product,module,Magento_Reports
 Link,Link,module,Magento_Reports
-SKU,SKU,module,Magento_Reports
+SKU,Artikelnummer,module,Magento_Reports
 Purchases,Purchases,module,Magento_Reports
 CSV,CSV,module,Magento_Reports
 "Excel XML","Excel XML",module,Magento_Reports
@@ -4021,7 +4021,7 @@ ID,ID,module,Magento_Review
 Created,Created,module,Magento_Review
 Title,Title,module,Magento_Review
 Type,Type,module,Magento_Review
-SKU,SKU,module,Magento_Review
+SKU,Artikelnummer,module,Magento_Review
 Action,Action,module,Magento_Review
 Edit,Edit,module,Magento_Review
 Delete,Delete,module,Magento_Review
@@ -4329,7 +4329,7 @@ Configure,Configure,module,Magento_Sales
 "Add Selected Product(s) to Order","Add Selected Product(s) to Order",module,Magento_Sales
 ID,ID,module,Magento_Sales
 Product,Product,module,Magento_Sales
-SKU,SKU,module,Magento_Sales
+SKU,Artikelnummer,module,Magento_Sales
 Price,Pris,module,Magento_Sales
 Select,Select,module,Magento_Sales
 Quantity,Quantity,module,Magento_Sales
@@ -5162,7 +5162,7 @@ Action,Action,module,Magento_Shipping
 "Shipment #","Shipment #",module,Magento_Shipping
 "Print Shipment","Print Shipment",module,Magento_Shipping
 "Tracking Number(s):","Tracking Number(s):",module,Magento_Shipping
-SKU,SKU,module,Magento_Shipping
+SKU,Artikelnummer,module,Magento_Shipping
 "Order tracking","Order tracking",module,Magento_Shipping
 "Tracking Number:","Tracking Number:",module,Magento_Shipping
 Carrier:,Carrier:,module,Magento_Shipping
@@ -5660,7 +5660,7 @@ Product:,Product:,module,Magento_UrlRewrite
 "Skip Category Selection","Skip Category Selection",module,Magento_UrlRewrite
 ID,ID,module,Magento_UrlRewrite
 Name,Name,module,Magento_UrlRewrite
-SKU,SKU,module,Magento_UrlRewrite
+SKU,Artikelnummer,module,Magento_UrlRewrite
 Status,Status,module,Magento_UrlRewrite
 "Edit URL Rewrite for CMS page","Edit URL Rewrite for CMS page",module,Magento_UrlRewrite
 "Add URL Rewrite for CMS page","Add URL Rewrite for CMS page",module,Magento_UrlRewrite
@@ -7111,7 +7111,7 @@ Disable,Disable,module,Magento_Catalog
 "Update attributes","Update attributes",module,Magento_Catalog
 none,none,module,Magento_Catalog
 Overview,Overview,module,Magento_Catalog
-Details,Details,module,Magento_Catalog
+Details,Detaljer,module,Magento_Catalog
 "Terms & Conditions","Terms & Conditions",module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Enable Terms and Conditions",module,Magento_CheckoutAgreements
 "Checkout Options","Checkout Options",module,Magento_Checkout
