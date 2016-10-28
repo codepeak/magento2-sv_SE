@@ -3,5 +3,5 @@
           xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>sv_SE</code>
     <vendor>codepeak</vendor>
-    <package>sv_SE</package>
+    <package>sv_se</package>
 </language>
