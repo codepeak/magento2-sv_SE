@@ -99,7 +99,7 @@ Orders,Orders,module,Magento_Backend
 Amounts,Amounts,module,Magento_Backend
 Bestsellers,Bestsellers,module,Magento_Backend
 "Most Viewed Products","Most Viewed Products",module,Magento_Backend
-"New Customers","New Customers",module,Magento_Backend
+"New Customers","Nya kunder",module,Magento_Backend
 Customers,Customers,module,Magento_Backend
 Customer,Customer,module,Magento_Backend
 Guest,Guest,module,Magento_Backend
@@ -125,9 +125,9 @@ Shipping,Shipping,module,Magento_Backend
 "My Account","Mitt konto",module,Magento_Backend
 "Account Information","Account Information",module,Magento_Backend
 "User Name","User Name",module,Magento_Backend
-"First Name","First Name",module,Magento_Backend
-"Last Name","Last Name",module,Magento_Backend
-Email,Email,module,Magento_Backend
+"First Name","Förnamn",module,Magento_Backend
+"Last Name","Efternamn",module,Magento_Backend
+Email,E-post,module,Magento_Backend
 "User Email","User Email",module,Magento_Backend
 "New Password","New Password",module,Magento_Backend
 "Password Confirmation","Password Confirmation",module,Magento_Backend
@@ -151,10 +151,10 @@ Rebuild,Rebuild,module,Magento_Backend
 Disable,Disable,module,Magento_Backend
 Enable,Enable,module,Magento_Backend
 "Add Design Change","Add Design Change",module,Magento_Backend
-Back,Back,module,Magento_Backend
+Back,Tillbaka,module,Magento_Backend
 Delete,Delete,module,Magento_Backend
 "Are you sure?","Are you sure?",module,Magento_Backend
-Save,Save,module,Magento_Backend
+Save,Spara,module,Magento_Backend
 "Edit Design Change","Edit Design Change",module,Magento_Backend
 "New Store Design Change","New Store Design Change",module,Magento_Backend
 "General Settings","General Settings",module,Magento_Backend
@@ -187,7 +187,7 @@ No,No,module,Magento_Backend
 "New Store View","New Store View",module,Magento_Backend
 "Store Information","Store Information",module,Magento_Backend
 "Web Site","Web Site",module,Magento_Backend
-Name,Name,module,Magento_Backend
+Name,Namn,module,Magento_Backend
 "Root Category","Root Category",module,Magento_Backend
 "Default Store View","Default Store View",module,Magento_Backend
 "Store View Information","Store View Information",module,Magento_Backend
@@ -542,7 +542,7 @@ Checkbox,Checkbox,module,Magento_Bundle
 "Multiple Select","Multiple Select",module,Magento_Bundle
 Required,Required,module,Magento_Bundle
 "Is Default","Is Default",module,Magento_Bundle
-Name,Name,module,Magento_Bundle
+Name,Namn,module,Magento_Bundle
 "Default Quantity","Default Quantity",module,Magento_Bundle
 "User Defined","User Defined",module,Magento_Bundle
 "Price Type","Price Type",module,Magento_Bundle
@@ -667,7 +667,7 @@ Qty,Antal,module,Magento_CatalogInventory
 Reset,Reset,module,Magento_CatalogRule
 "Save and Apply","Save and Apply",module,Magento_CatalogRule
 "Save and Continue Edit","Save and Continue Edit",module,Magento_CatalogRule
-Save,Save,module,Magento_CatalogRule
+Save,Spara,module,Magento_CatalogRule
 "Catalog Price Rule","Catalog Price Rule",module,Magento_CatalogRule
 "Add New Rule","Add New Rule",module,Magento_CatalogRule
 "Apply Rules","Apply Rules",module,Magento_CatalogRule
@@ -744,7 +744,7 @@ Search,Search,module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","We can't find any items matching these search criteria.",module,Magento_CatalogSearch
 "Modify your search.","Modify your search.",module,Magento_CatalogSearch
-name,name,module,Magento_CatalogSearch
+Name,Namn,module,Magento_CatalogSearch
 "Don't see what you're looking for?","Don't see what you're looking for?",module,Magento_CatalogSearch
 "Your search returned no results.","Din sökning gav inga resultat.",module,Magento_CatalogSearch
 "Create Permanent Redirect for old URL","Create Permanent Redirect for old URL",module,Magento_CatalogUrlRewrite
@@ -759,11 +759,11 @@ SKU,Artikelnummer,module,Magento_CatalogWidget
 "Add to Compare","Add to Compare",module,Magento_CatalogWidget
 Root,Root,module,Magento_Catalog
 Delete,Delete,module,Magento_Catalog
-Save,Save,module,Magento_Catalog
+Save,Spara,module,Magento_Catalog
 "Use Config Settings","Use Config Settings",module,Magento_Catalog
 "Use All Available Attributes","Use All Available Attributes",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
-Name,Name,module,Magento_Catalog
+Name,Namn,module,Magento_Catalog
 SKU,Artikelnummer,module,Magento_Catalog
 Price,Pris,module,Magento_Catalog
 Position,Position,module,Magento_Catalog
@@ -840,7 +840,7 @@ Searchable,Searchable,module,Magento_Catalog
 Comparable,Comparable,module,Magento_Catalog
 "Delete Selected Group","Delete Selected Group",module,Magento_Catalog
 "Add New","Add New",module,Magento_Catalog
-Back,Back,module,Magento_Catalog
+Back,Tillbaka,module,Magento_Catalog
 Reset,Reset,module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?",module,Magento_Catalog
 "New Set Name","New Set Name",module,Magento_Catalog
@@ -873,9 +873,9 @@ Websites,Websites,module,Magento_Catalog
 "Price Alert Subscriptions","Price Alert Subscriptions",module,Magento_Catalog
 "Stock Alert Subscriptions","Stock Alert Subscriptions",module,Magento_Catalog
 "There are no customers for this alert.","There are no customers for this alert.",module,Magento_Catalog
-"First Name","First Name",module,Magento_Catalog
-"Last Name","Last Name",module,Magento_Catalog
-Email,Email,module,Magento_Catalog
+"First Name","Förnamn",module,Magento_Catalog
+"Last Name","Efternamn",module,Magento_Catalog
+Email,E-post,module,Magento_Catalog
 "Subscribe Date","Subscribe Date",module,Magento_Catalog
 "Last Notified","Last Notified",module,Magento_Catalog
 "Send Count","Send Count",module,Magento_Catalog
@@ -1214,7 +1214,7 @@ Actions,Actions,module,Magento_Catalog
 "Schedule Update From","Schedule Update From",module,Magento_Catalog
 "Product in Websites","Product in Websites",module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Catalog
-name,name,module,Magento_Catalog
+Name,Namn,module,Magento_Catalog
 "Copy Data from","Copy Data from",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.",module,Magento_Catalog
 "This operation can take a long time","This operation can take a long time",module,Magento_Catalog
@@ -1316,7 +1316,7 @@ Compare,Compare,module,Magento_Catalog
 "Clear All","Clear All",module,Magento_Catalog
 Prev,Prev,module,Magento_Catalog
 Next,Next,module,Magento_Catalog
-"We can't find products matching the selection.","We can't find products matching the selection.",module,Magento_Catalog
+"We can't find products matching the selection.","Vi kan inte hitta produkter som överensstämmer med urvalet.",module,Magento_Catalog
 "Add to Compare","Add to Compare",module,Magento_Catalog
 "Learn More","Learn More",module,Magento_Catalog
 "We found other products you might like!","We found other products you might like!",module,Magento_Catalog
@@ -1470,7 +1470,7 @@ Loading...,Loading...,module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","We'll email you an order confirmation with details and tracking info.",module,Magento_Checkout
 "Static Blocks","Static Blocks",module,Magento_Cms
 "Add New Block","Add New Block",module,Magento_Cms
-Back,Back,module,Magento_Cms
+Back,Tillbaka,module,Magento_Cms
 "Delete Block","Delete Block",module,Magento_Cms
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Cms
 Reset,Reset,module,Magento_Cms
@@ -1656,7 +1656,7 @@ Stores,Stores,module,Magento_Config
 "New attribute set name","New attribute set name",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Add configurable attributes to the existing Attribute Set",module,Magento_ConfigurableProduct
 "Choose existing Attribute Set","Choose existing Attribute Set",module,Magento_ConfigurableProduct
-Save,Save,module,Magento_ConfigurableProduct
+Save,Spara,module,Magento_ConfigurableProduct
 "Save & New","Save & New",module,Magento_ConfigurableProduct
 "Save & Duplicate","Save & Duplicate",module,Magento_ConfigurableProduct
 "Save & Close","Save & Close",module,Magento_ConfigurableProduct
@@ -1703,7 +1703,7 @@ Done,Done,module,Magento_ConfigurableProduct
 "Create Configurations","Create Configurations",module,Magento_ConfigurableProduct
 "Current Variations","Current Variations",module,Magento_ConfigurableProduct
 Image,Image,module,Magento_ConfigurableProduct
-Name,Name,module,Magento_ConfigurableProduct
+Name,Namn,module,Magento_ConfigurableProduct
 SKU,Artikelnummer,module,Magento_ConfigurableProduct
 Price,Pris,module,Magento_ConfigurableProduct
 Quantity,Quantity,module,Magento_ConfigurableProduct
@@ -1770,8 +1770,8 @@ Cancel,Cancel,module,Magento_ConfigurableProduct
 "* Required Fields","* Required Fields",module,Magento_Contact
 "Write Us","Write Us",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
-Name,Name,module,Magento_Contact
-Email,Email,module,Magento_Contact
+Name,Namn,module,Magento_Contact
+Email,E-post,module,Magento_Contact
 "Phone Number","Phone Number",module,Magento_Contact
 "What’s on your mind?","What’s on your mind?",module,Magento_Contact
 Submit,Submit,module,Magento_Contact
@@ -1842,7 +1842,7 @@ region,region,module,Magento_Customer
 "Force Sign-In","Force Sign-In",module,Magento_Customer
 "New Customer","New Customer",module,Magento_Customer
 "Save and Continue Edit","Save and Continue Edit",module,Magento_Customer
-Back,Back,module,Magento_Customer
+Back,Tillbaka,module,Magento_Customer
 "Please select","Please select",module,Magento_Customer
 Reset,Reset,module,Magento_Customer
 ID,ID,module,Magento_Customer
@@ -1925,9 +1925,9 @@ Download,Download,module,Magento_Customer
 "The customer would belong to Customer Group %s.","The customer would belong to Customer Group %s.",module,Magento_Customer
 "There was an error detecting Customer Group.","There was an error detecting Customer Group.",module,Magento_Customer
 "Validate VAT Number","Validate VAT Number",module,Magento_Customer
-"Customer Login","Customer Login",module,Magento_Customer
-"Create New Customer Account","Create New Customer Account",module,Magento_Customer
-"Date of Birth","Date of Birth",module,Magento_Customer
+"Customer Login","Kundinloggning",module,Magento_Customer
+"Create New Customer Account","Skapa nytt kundkonto",module,Magento_Customer
+"Date of Birth","Födelsedatum",module,Magento_Customer
 "Bad request.","Bad request.",module,Magento_Customer
 "This confirmation key is invalid or has expired.","This confirmation key is invalid or has expired.",module,Magento_Customer
 "There was an error confirming the account","There was an error confirming the account",module,Magento_Customer
@@ -2109,7 +2109,7 @@ Visitor,Visitor,module,Magento_Customer
 Customer,Customer,module,Magento_Customer
 "No item specified.","No item specified.",module,Magento_Customer
 "Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Customer
-"Personal Information","Personal Information",module,Magento_Customer
+"Personal Information","Personlig information",module,Magento_Customer
 "Last Logged In:","Last Logged In:",module,Magento_Customer
 "Last Logged In (%1):","Last Logged In (%1):",module,Magento_Customer
 "Account Lock:","Account Lock:",module,Magento_Customer
@@ -2162,36 +2162,36 @@ Country,Country,module,Magento_Customer
 "Save Address","Save Address",module,Magento_Customer
 "Go back","Go back",module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
-Email,Email,module,Magento_Customer
+Email,E-post,module,Magento_Customer
 "Send confirmation link","Send confirmation link",module,Magento_Customer
 "Back to Sign In","Back to Sign In",module,Magento_Customer
 "Change Email","Change Email",module,Magento_Customer
 "Change Email and Password","Change Email and Password",module,Magento_Customer
 "Current Password","Current Password",module,Magento_Customer
 "New Password","New Password",module,Magento_Customer
-"Password Strength","Password Strength",module,Magento_Customer
-"No Password","No Password",module,Magento_Customer
-"Confirm New Password","Confirm New Password",module,Magento_Customer
-Save,Save,module,Magento_Customer
-"Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
-"Reset My Password","Reset My Password",module,Magento_Customer
-"Registered Customers","Registered Customers",module,Magento_Customer
-"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
-Password,Password,module,Magento_Customer
-"Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
+"Password Strength","Lösenordets styrka",module,Magento_Customer
+"No Password","Inget lösenord",module,Magento_Customer
+"Confirm New Password","Bekräfta nytt lösenord",module,Magento_Customer
+Save,Spara,module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Vänligen ange din e-postadress för att få en återställningslänk skickad.",module,Magento_Customer
+"Reset My Password","Återställ mitt lösenord",module,Magento_Customer
+"Registered Customers","Registrerade kunder",module,Magento_Customer
+"If you have an account, sign in with your email address.","Om du har ett konto, logga in med din e-postadress.",module,Magento_Customer
+Password,Lösenord,module,Magento_Customer
+"Forgot Your Password?","Glömt ditt lösenord?",module,Magento_Customer
 "Subscription option","Subscription option",module,Magento_Customer
 "General Subscription","General Subscription",module,Magento_Customer
-"Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_Customer
-"Address Information","Address Information",module,Magento_Customer
-"Sign-in Information","Sign-in Information",module,Magento_Customer
-"Confirm Password","Confirm Password",module,Magento_Customer
+"Sign Up for Newsletter","Anmäl dig till nyhetsbrevet",module,Magento_Customer
+"Address Information","Adressinformation",module,Magento_Customer
+"Sign-in Information","Inloggningsinformation",module,Magento_Customer
+"Confirm Password","Bekräfta lösenord",module,Magento_Customer
 "Create an Account","Skapa konto",module,Magento_Customer
-"Set a New Password","Set a New Password",module,Magento_Customer
+"Set a New Password","Välj ett nytt lösenord",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
 "New Customers","New Customers",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
-Gender,Gender,module,Magento_Customer
-Name,Name,module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Att skapa ett konto har många fördelar: handla snabbare, ha flera adresser, spåra beställningar och mer.",module,Magento_Customer
+Gender,Kön,module,Magento_Customer
+Name,Namn,module,Magento_Customer
 "Tax/VAT number","Tax/VAT number",module,Magento_Customer
 "Cannot switch into given mode ""%1""","Cannot switch into given mode ""%1""",module,Magento_Deploy
 "Format for IDE '%1' is not supported","Format for IDE '%1' is not supported",module,Magento_Developer
@@ -2368,7 +2368,7 @@ Status,Status,module,Magento_Downloadable
 "View Order","View Order",module,Magento_Downloadable
 "Start Download","Start Download",module,Magento_Downloadable
 "You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
-Back,Back,module,Magento_Downloadable
+Back,Tillbaka,module,Magento_Downloadable
 download,download,module,Magento_Downloadable
 "Gift Message","Gift Message",module,Magento_Downloadable
 From:,From:,module,Magento_Downloadable
@@ -2403,7 +2403,7 @@ System,System,module,Magento_Eav
 None,None,module,Magento_Eav
 "Decimal Number","Decimal Number",module,Magento_Eav
 "Integer Number","Integer Number",module,Magento_Eav
-Email,Email,module,Magento_Eav
+Email,E-post,module,Magento_Eav
 URL,URL,module,Magento_Eav
 Letters,Letters,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
@@ -2526,7 +2526,7 @@ hello,hello,module,Magento_Eav
 "The value of attribute not valid","The value of attribute not valid",module,Magento_Eav
 "Add New Template","Add New Template",module,Magento_Email
 "Transactional Emails","Transactional Emails",module,Magento_Email
-Back,Back,module,Magento_Email
+Back,Tillbaka,module,Magento_Email
 Reset,Reset,module,Magento_Email
 "Delete Template","Delete Template",module,Magento_Email
 "Convert to Plain Text","Convert to Plain Text",module,Magento_Email
@@ -2712,7 +2712,7 @@ Cancel,Cancel,module,Magento_GroupedProduct
 Remove,Remove,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
 Thumbnail,Thumbnail,module,Magento_GroupedProduct
-Name,Name,module,Magento_GroupedProduct
+Name,Namn,module,Magento_GroupedProduct
 "Attribute Set","Attribute Set",module,Magento_GroupedProduct
 Status,Status,module,Magento_GroupedProduct
 SKU,Artikelnummer,module,Magento_GroupedProduct
@@ -2861,14 +2861,14 @@ Never,Never,module,Magento_Indexer
 Integrations,Integrations,module,Magento_Integration
 "Add New Integration","Add New Integration",module,Magento_Integration
 API,API,module,Magento_Integration
-Save,Save,module,Magento_Integration
+Save,Spara,module,Magento_Integration
 "Save & Activate","Save & Activate",module,Magento_Integration
 "New Integration","New Integration",module,Magento_Integration
 "Edit Integration '%1'","Edit Integration '%1'",module,Magento_Integration
 "Integration Info","Integration Info",module,Magento_Integration
 General,General,module,Magento_Integration
-Name,Name,module,Magento_Integration
-Email,Email,module,Magento_Integration
+Name,Namn,module,Magento_Integration
+Email,E-post,module,Magento_Integration
 "Callback URL","Callback URL",module,Magento_Integration
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.",module,Magento_Integration
 "Identity link URL","Identity link URL",module,Magento_Integration
@@ -3109,7 +3109,7 @@ Items,Items,module,Magento_Multishipping
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
 "Delete Selected Problems","Delete Selected Problems",module,Magento_Newsletter
 "Unsubscribe Selected","Unsubscribe Selected",module,Magento_Newsletter
-Back,Back,module,Magento_Newsletter
+Back,Tillbaka,module,Magento_Newsletter
 Reset,Reset,module,Magento_Newsletter
 "Preview Template","Preview Template",module,Magento_Newsletter
 "Save Newsletter","Save Newsletter",module,Magento_Newsletter
@@ -3305,15 +3305,15 @@ No,No,module,Magento_Payment
 "Credit Card Information","Credit Card Information",module,Magento_Payment
 "Billing Agreements","Billing Agreements",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
-Email,Email,module,Magento_Paypal
-"First Name","First Name",module,Magento_Paypal
-"Last Name","Last Name",module,Magento_Paypal
+Email,E-post,module,Magento_Paypal
+"First Name","Förnamn",module,Magento_Paypal
+"Last Name","Efternamn",module,Magento_Paypal
 "Reference ID","Reference ID",module,Magento_Paypal
 Status,Status,module,Magento_Paypal
 Created,Created,module,Magento_Paypal
 N/A,N/A,module,Magento_Paypal
 Updated,Updated,module,Magento_Paypal
-Back,Back,module,Magento_Paypal
+Back,Tillbaka,module,Magento_Paypal
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Paypal
 Cancel,Cancel,module,Magento_Paypal
 "Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
@@ -3909,7 +3909,7 @@ Carrier/Method,Carrier/Method,module,Magento_Reports
 Rate,Rate,module,Magento_Reports
 "Tax Amount","Tax Amount",module,Magento_Reports
 "Abandoned carts","Abandoned carts",module,Magento_Reports
-Email,Email,module,Magento_Reports
+Email,E-post,module,Magento_Reports
 Products,Products,module,Magento_Reports
 Quantity,Quantity,module,Magento_Reports
 "Applied Coupon","Applied Coupon",module,Magento_Reports
@@ -3917,12 +3917,12 @@ Updated,Updated,module,Magento_Reports
 "IP Address","IP Address",module,Magento_Reports
 Customers,Customers,module,Magento_Reports
 ID,ID,module,Magento_Reports
-"First Name","First Name",module,Magento_Reports
-"Last Name","Last Name",module,Magento_Reports
+"First Name","Förnamn",module,Magento_Reports
+"Last Name","Efternamn",module,Magento_Reports
 "Items in Cart","Items in Cart",module,Magento_Reports
 "Products in carts","Products in carts",module,Magento_Reports
 Carts,Carts,module,Magento_Reports
-Name,Name,module,Magento_Reports
+Name,Namn,module,Magento_Reports
 "Wish Lists","Wish Lists",module,Magento_Reports
 "Wish List Purchase","Wish List Purchase",module,Magento_Reports
 "Wish List vs. Regular Order","Wish List vs. Regular Order",module,Magento_Reports
@@ -4033,7 +4033,7 @@ Customer,Customer,module,Magento_Review
 "All Reviews of Customer `%1`","All Reviews of Customer `%1`",module,Magento_Review
 "All Reviews of Product `%1`","All Reviews of Product `%1`",module,Magento_Review
 "All Reviews","All Reviews",module,Magento_Review
-Name,Name,module,Magento_Review
+Name,Namn,module,Magento_Review
 "Product Store Name","Product Store Name",module,Magento_Review
 Price,Pris,module,Magento_Review
 Quantity,Quantity,module,Magento_Review
@@ -4097,7 +4097,7 @@ Rating,Rating,module,Magento_Review
 Actions,Actions,module,Magento_Review
 "See Details","See Details",module,Magento_Review
 "You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
-Back,Back,module,Magento_Review
+Back,Tillbaka,module,Magento_Review
 "My Recent Reviews","My Recent Reviews",module,Magento_Review
 "View All","View All",module,Magento_Review
 "Average Customer Rating:","Average Customer Rating:",module,Magento_Review
@@ -4107,7 +4107,7 @@ Back,Back,module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
 "Be the first to review this product","Be the first to review this product",module,Magento_Review
 "Write Your Own Review","Write Your Own Review",module,Magento_Review
-"* Required Fields","* Required Fields",module,Magento_Review
+"* Required Fields","* Obligatoriska fält",module,Magento_Review
 "You're reviewing:","You're reviewing:",module,Magento_Review
 "Your Rating","Your Rating",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
@@ -4166,7 +4166,7 @@ Delete,Delete,module,Magento_SalesRule
 "Are you sure you want to delete this?","Are you sure you want to delete this?",module,Magento_SalesRule
 Reset,Reset,module,Magento_SalesRule
 "Save and Continue Edit","Save and Continue Edit",module,Magento_SalesRule
-Save,Save,module,Magento_SalesRule
+Save,Spara,module,Magento_SalesRule
 Actions,Actions,module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
 "Apply To","Apply To",module,Magento_SalesRule
@@ -4455,7 +4455,7 @@ Subtotal,Subtotal,module,Magento_Sales
 "Discount (%1)","Discount (%1)",module,Magento_Sales
 Discount,Discount,module,Magento_Sales
 "Grand Total","Grand Total",module,Magento_Sales
-Back,Back,module,Magento_Sales
+Back,Tillbaka,module,Magento_Sales
 Fetch,Fetch,module,Magento_Sales
 "Transaction # %1 | %2","Transaction # %1 | %2",module,Magento_Sales
 N/A,N/A,module,Magento_Sales
@@ -4700,9 +4700,9 @@ title,title,module,Magento_Sales
 City,City,module,Magento_Sales
 Company,Company,module,Magento_Sales
 Country,Country,module,Magento_Sales
-Email,Email,module,Magento_Sales
-"First Name","First Name",module,Magento_Sales
-"Last Name","Last Name",module,Magento_Sales
+Email,E-post,module,Magento_Sales
+"First Name","Förnamn",module,Magento_Sales
+"Last Name","Efternamn",module,Magento_Sales
 State/Province,State/Province,module,Magento_Sales
 "Street Address","Street Address",module,Magento_Sales
 "Phone Number","Phone Number",module,Magento_Sales
@@ -4908,7 +4908,7 @@ Uses,Uses,module,Magento_Search
 "Search Terms","Search Terms",module,Magento_Search
 "Search Synonyms","Search Synonyms",module,Magento_Search
 "New Synonym Group","New Synonym Group",module,Magento_Search
-Back,Back,module,Magento_Search
+Back,Tillbaka,module,Magento_Search
 "Delete Synonym Group","Delete Synonym Group",module,Magento_Search
 "Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?",module,Magento_Search
 Reset,Reset,module,Magento_Search
@@ -5014,8 +5014,8 @@ None,None,module,Magento_Security
 Exception.,Exception.,module,Magento_SendFriend
 "Remove Recipent","Remove Recipent",module,Magento_SendFriend
 Remove,Remove,module,Magento_SendFriend
-Name,Name,module,Magento_SendFriend
-Email,Email,module,Magento_SendFriend
+Name,Namn,module,Magento_SendFriend
+Email,E-post,module,Magento_SendFriend
 "* Required Fields","* Required Fields",module,Magento_SendFriend
 Sender,Sender,module,Magento_SendFriend
 Message,Message,module,Magento_SendFriend
@@ -5023,7 +5023,7 @@ Invitee,Invitee,module,Magento_SendFriend
 "Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_SendFriend
 "Add Invitee","Add Invitee",module,Magento_SendFriend
 "Send Email","Send Email",module,Magento_SendFriend
-Back,Back,module,Magento_SendFriend
+Back,Tillbaka,module,Magento_SendFriend
 "New Shipment for Order #%1","New Shipment for Order #%1",module,Magento_Shipping
 "Submit Shipment","Submit Shipment",module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",module,Magento_Shipping
@@ -5133,7 +5133,7 @@ Ship,Ship,module,Magento_Shipping
 Delete,Delete,module,Magento_Shipping
 "Create Packages","Create Packages",module,Magento_Shipping
 Cancel,Cancel,module,Magento_Shipping
-Save,Save,module,Magento_Shipping
+Save,Spara,module,Magento_Shipping
 "Add Package","Add Package",module,Magento_Shipping
 "Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Shipping
 "Add Products to Package","Add Products to Package",module,Magento_Shipping
@@ -5307,7 +5307,7 @@ Country,Country,module,Magento_Tax
 "Rate Percent","Rate Percent",module,Magento_Tax
 "Tax Titles","Tax Titles",module,Magento_Tax
 "Add New Tax Rate","Add New Tax Rate",module,Magento_Tax
-Back,Back,module,Magento_Tax
+Back,Tillbaka,module,Magento_Tax
 Reset,Reset,module,Magento_Tax
 "Delete Rate","Delete Rate",module,Magento_Tax
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Tax
@@ -5318,7 +5318,7 @@ Reset,Reset,module,Magento_Tax
 "Delete Rule","Delete Rule",module,Magento_Tax
 "Save and Continue Edit","Save and Continue Edit",module,Magento_Tax
 "Tax Rule Information","Tax Rule Information",module,Magento_Tax
-Name,Name,module,Magento_Tax
+Name,Namn,module,Magento_Tax
 "Customer Tax Class","Customer Tax Class",module,Magento_Tax
 "Product Tax Class","Product Tax Class",module,Magento_Tax
 "Tax Rate","Tax Rate",module,Magento_Tax
@@ -5427,11 +5427,11 @@ Note:,Note:,module,Magento_Tax
 "Leave this field empty if you wish to use the tax identifier.","Leave this field empty if you wish to use the tax identifier.",module,Magento_Tax
 "An error occurred","An error occurred",module,Magento_Tax
 "Do you really want to delete this tax rate?","Do you really want to delete this tax rate?",module,Magento_Tax
-Save,Save,module,Magento_Tax
+Save,Spara,module,Magento_Tax
 "Add New Class","Add New Class",module,Magento_Tax
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
-Back,Back,module,Magento_Theme
+Back,Tillbaka,module,Magento_Theme
 "Save and Continue","Save and Continue",module,Magento_Theme
 "Save Configuration","Save Configuration",module,Magento_Theme
 %1,%1,module,Magento_Theme
@@ -5572,7 +5572,7 @@ Minute,Minute,module,Magento_Theme
 "Bookmark with id ""%1"" does not exist.","Bookmark with id ""%1"" does not exist.",module,Magento_Ui
 "Invalid UI Component element name: ''","Invalid UI Component element name: ''",module,Magento_Ui
 Cancel,Cancel,module,Magento_Ui
-Back,Back,module,Magento_Ui
+Back,Tillbaka,module,Magento_Ui
 Next,Next,module,Magento_Ui
 "UPS Next Day Air","UPS Next Day Air",module,Magento_Ups
 "UPS Second Day Air","UPS Second Day Air",module,Magento_Ups
@@ -5659,7 +5659,7 @@ Category:,Category:,module,Magento_UrlRewrite
 Product:,Product:,module,Magento_UrlRewrite
 "Skip Category Selection","Skip Category Selection",module,Magento_UrlRewrite
 ID,ID,module,Magento_UrlRewrite
-Name,Name,module,Magento_UrlRewrite
+Name,Namn,module,Magento_UrlRewrite
 SKU,Artikelnummer,module,Magento_UrlRewrite
 Status,Status,module,Magento_UrlRewrite
 "Edit URL Rewrite for CMS page","Edit URL Rewrite for CMS page",module,Magento_UrlRewrite
@@ -5672,10 +5672,10 @@ Title,Title,module,Magento_UrlRewrite
 "Edit URL Rewrite","Edit URL Rewrite",module,Magento_UrlRewrite
 "Add New URL Rewrite","Add New URL Rewrite",module,Magento_UrlRewrite
 Reset,Reset,module,Magento_UrlRewrite
-Back,Back,module,Magento_UrlRewrite
+Back,Tillbaka,module,Magento_UrlRewrite
 Delete,Delete,module,Magento_UrlRewrite
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_UrlRewrite
-Save,Save,module,Magento_UrlRewrite
+Save,Spara,module,Magento_UrlRewrite
 "Block Information","Block Information",module,Magento_UrlRewrite
 "URL Rewrite Information","URL Rewrite Information",module,Magento_UrlRewrite
 "Request Path","Request Path",module,Magento_UrlRewrite
@@ -5708,7 +5708,7 @@ No,No,module,Magento_UrlRewrite
 "URL key for specified store already exists.","URL key for specified store already exists.",module,Magento_UrlRewrite
 "Custom storage message","Custom storage message",module,Magento_UrlRewrite
 "Select Category","Select Category",module,Magento_UrlRewrite
-Back,Back,module,Magento_User
+Back,Tillbaka,module,Magento_User
 Reset,Reset,module,Magento_User
 "Delete Role","Delete Role",module,Magento_User
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_User
@@ -5719,9 +5719,9 @@ Roles,Roles,module,Magento_User
 "Role Users","Role Users",module,Magento_User
 "User ID","User ID",module,Magento_User
 "User Name","User Name",module,Magento_User
-"First Name","First Name",module,Magento_User
-"Last Name","Last Name",module,Magento_User
-Email,Email,module,Magento_User
+"First Name","Förnamn",module,Magento_User
+"Last Name","Efternamn",module,Magento_User
+Email,E-post,module,Magento_User
 Status,Status,module,Magento_User
 Active,Active,module,Magento_User
 Inactive,Inactive,module,Magento_User
@@ -5785,7 +5785,7 @@ Permissions,Permissions,module,Magento_User
 Recommended,Recommended,module,Magento_User
 Forced,Forced,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
-email,email,module,Magento_User
+Email,E-post,module,Magento_User
 password,password,module,Magento_User
 username,username,module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_User
@@ -6029,7 +6029,7 @@ CMS,CMS,module,Magento_Widget
 "New Widget","New Widget",module,Magento_Widget
 Widgets,Widgets,module,Magento_Widget
 "The widget instance has been saved.","The widget instance has been saved.",module,Magento_Widget
-name,name,module,Magento_Widget
+Name,Namn,module,Magento_Widget
 description,description,module,Magento_Widget
 "We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information.",module,Magento_Widget
 None,None,module,Magento_Widget
@@ -6122,7 +6122,7 @@ Edit,Edit,module,Magento_Wishlist
 "RSS Feed","RSS Feed",module,Magento_Wishlist
 Product,Product,module,Magento_Wishlist
 "Add to Wish List","Add to Wish List",module,Magento_Wishlist
-Back,Back,module,Magento_Wishlist
+Back,Tillbaka,module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
 "* Required Fields","* Required Fields",module,Magento_Wishlist
 "Sharing Information","Sharing Information",module,Magento_Wishlist
@@ -6416,7 +6416,7 @@ Loading...,Loading...,lib,lib/web/mage/loader_old.js
 "All ","All ",lib,lib/web/mage/menu.js
 more,more,lib,lib/web/mage/menu.js
 Cancel,Cancel,lib,lib/web/mage/translate-inline-vde.js
-Save,Save,lib,lib/web/mage/translate-inline-vde.js
+Save,Spara,lib,lib/web/mage/translate-inline-vde.js
 Translate,Translate,lib,lib/web/mage/translate-inline.js
 Submit,Submit,lib,lib/web/mage/translate-inline.js
 Close,Close,lib,lib/web/mage/translate-inline.js
@@ -6508,7 +6508,7 @@ Done,Done,module,Magento_Integration
 "Video cant be shown due to the following reason: ","Video cant be shown due to the following reason: ",module,Magento_ProductVideo
 "Video not found","Video not found",module,Magento_ProductVideo
 "New Video","New Video",module,Magento_ProductVideo
-Save,Save,module,Magento_ProductVideo
+Save,Spara,module,Magento_ProductVideo
 Cancel,Cancel,module,Magento_ProductVideo
 Delete,Delete,module,Magento_ProductVideo
 "Edit Video","Edit Video",module,Magento_ProductVideo
@@ -6828,7 +6828,7 @@ Frequency,Frequency,module,Magento_Backup
 Delete,Delete,module,Magento_Backup
 "Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?",module,Magento_Backup
 Time,Time,module,Magento_Backup
-Name,Name,module,Magento_Backup
+Name,Namn,module,Magento_Backup
 Size(bytes),Size(bytes),module,Magento_Backup
 Type,Type,module,Magento_Backup
 Download,Download,module,Magento_Backup
@@ -6948,7 +6948,7 @@ Status,Status,module,Magento_CatalogRule
 Active,Active,module,Magento_CatalogRule
 Inactive,Inactive,module,Magento_CatalogRule
 "Web Site","Web Site",module,Magento_CatalogRule
-Back,Back,module,Magento_CatalogRule
+Back,Tillbaka,module,Magento_CatalogRule
 "Rule Information","Rule Information",module,Magento_CatalogRule
 Actions,Actions,module,Magento_CatalogRule
 Yes,Yes,module,Magento_CatalogRule
@@ -7358,8 +7358,8 @@ ZIP,ZIP,module,Magento_Customer
 "Billing Firstname","Billing Firstname",module,Magento_Customer
 "Billing Lastname","Billing Lastname",module,Magento_Customer
 "Account Lock","Account Lock",module,Magento_Customer
-"First Name","First Name",module,Magento_Customer
-"Last Name","Last Name",module,Magento_Customer
+"First Name","Förnamn",module,Magento_Customer
+"Last Name","Efternamn",module,Magento_Customer
 "Last Activity","Last Activity",module,Magento_Customer
 Type,Type,module,Magento_Customer
 "Customer Information","Customer Information",module,Magento_Customer
@@ -7621,7 +7621,7 @@ Unsubscribe,Unsubscribe,module,Magento_Newsletter
 Delete,Delete,module,Magento_Newsletter
 CSV,CSV,module,Magento_Newsletter
 "Excel XML","Excel XML",module,Magento_Newsletter
-Email,Email,module,Magento_Newsletter
+Email,E-post,module,Magento_Newsletter
 Type,Type,module,Magento_Newsletter
 Guest,Guest,module,Magento_Newsletter
 Customer,Customer,module,Magento_Newsletter
@@ -8061,7 +8061,7 @@ Promotion,Promotion,module,Magento_SalesRule
 "Web Site","Web Site",module,Magento_SalesRule
 Priority,Priority,module,Magento_SalesRule
 "Cart Price Rule","Cart Price Rule",module,Magento_SalesRule
-Back,Back,module,Magento_SalesRule
+Back,Tillbaka,module,Magento_SalesRule
 "Rule Information","Rule Information",module,Magento_SalesRule
 "Rule Name","Rule Name",module,Magento_SalesRule
 Description,Description,module,Magento_SalesRule
@@ -8191,7 +8191,7 @@ Shipment,Shipment,module,Magento_Sales
 "Anchor Custom Title","Anchor Custom Title",module,Magento_Sales
 Template,Template,module,Magento_Sales
 "Default Template","Default Template",module,Magento_Sales
-Name,Name,module,Magento_Sales
+Name,Namn,module,Magento_Sales
 Phone,Phone,module,Magento_Sales
 "ZIP/Post Code","ZIP/Post Code",module,Magento_Sales
 "Signed-up Point","Signed-up Point",module,Magento_Sales
@@ -8510,7 +8510,7 @@ Debug,Debug,module,Magento_Usps
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Usps
 "Sort Order","Sort Order",module,Magento_Usps
 "Variable ID","Variable ID",module,Magento_Variable
-Name,Name,module,Magento_Variable
+Name,Namn,module,Magento_Variable
 "Web API Security","Web API Security",module,Magento_WebapiSecurity
 "Allow Anonymous Guest Access","Allow Anonymous Guest Access",module,Magento_WebapiSecurity
 "Manage Customers","Manage Customers",module,Magento_Webapi
