@@ -18,9 +18,6 @@
     "AFL-3.0"
   ],
   "autoload": {
-    "psr-4": {
-      "Codepeak\\Currency\\": ""
-    },
     "files": [
       "registration.php"
     ]
