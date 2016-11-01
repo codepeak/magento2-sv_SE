@@ -565,7 +565,7 @@ To,To,module,Magento_Bundle
 "Buy %1 with %2 discount each","Buy %1 with %2 discount each",module,Magento_Bundle
 "Go back to product details","Go back to product details",module,Magento_Bundle
 "Customize and Add to Cart","Customize and Add to Cart",module,Magento_Bundle
-"* Required Fields","* Required Fields",module,Magento_Bundle
+"* Required Fields","* Obligatoriska fält",module,Magento_Bundle
 "Your Customization","Your Customization",module,Magento_Bundle
 Availability,Availability,module,Magento_Bundle
 "In stock","I lager",module,Magento_Bundle
@@ -2188,7 +2188,7 @@ Password,Lösenord,module,Magento_Customer
 "Create an Account","Skapa konto",module,Magento_Customer
 "Set a New Password","Välj ett nytt lösenord",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
-"New Customers","New Customers",module,Magento_Customer
+"New Customers","Nya kunder",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Att skapa ett konto har många fördelar: handla snabbare, ha flera adresser, spåra beställningar och mer.",module,Magento_Customer
 Gender,Kön,module,Magento_Customer
 Name,Namn,module,Magento_Customer
@@ -5807,7 +5807,7 @@ username,username,module,Magento_User
 "Email address","Email address",module,Magento_User
 "Retrieve Password","Retrieve Password",module,Magento_User
 "Back to Sign in","Back to Sign in",module,Magento_User
-"Forgot your password?","Forgot your password?",module,Magento_User
+"Forgot Your Password?","Glömt ditt lösenord?",module,Magento_User
 "Reset a Password","Reset a Password",module,Magento_User
 "Confirm New Password","Confirm New Password",module,Magento_User
 "Reset Password","Reset Password",module,Magento_User
@@ -6124,7 +6124,7 @@ Product,Product,module,Magento_Wishlist
 "Add to Wish List","Add to Wish List",module,Magento_Wishlist
 Back,Tillbaka,module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
-"* Required Fields","* Required Fields",module,Magento_Wishlist
+"* Required Fields","* Obligatoriska fält",module,Magento_Wishlist
 "Sharing Information","Sharing Information",module,Magento_Wishlist
 "Email addresses, separated by commas","Email addresses, separated by commas",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
@@ -6160,7 +6160,7 @@ Total:,Total:,module,Magento_Checkout
 "Sign In","Logga in",module,Magento_Checkout
 "Email Address","Email Address",module,Magento_Checkout
 Password,Password,module,Magento_Checkout
-"Forgot Your Password?","Forgot Your Password?",module,Magento_Checkout
+"Forgot Your Password?","Glömt ditt lösenord?",module,Magento_Checkout
 "My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
 Update,Update,module,Magento_Checkout
 Cancel,Cancel,module,Magento_Checkout
@@ -6423,7 +6423,7 @@ Close,Close,lib,lib/web/mage/translate-inline.js
 "Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",lib,lib/web/mage/validation.js
 "Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",lib,lib/web/mage/validation.js
 "Maximum length of this field must be equal or less than %1 symbols.","Maximum length of this field must be equal or less than %1 symbols.",lib,lib/web/mage/validation.js
-"This is a required field.","This is a required field.",lib,lib/web/mage/validation.js
+"This is a required field.","Detta är ett obligatoriskt fält.",lib,lib/web/mage/validation.js
 "Please enter a date between %min and %max.","Please enter a date between %min and %max.",lib,lib/web/mage/validation/validation.js
 "Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1).",lib,lib/web/mage/validation/validation.js
 "Please enter a valid day (1-%1).","Please enter a valid day (1-%1).",lib,lib/web/mage/validation/validation.js
@@ -6480,10 +6480,10 @@ Shipping,Shipping,module,Magento_Checkout
 "Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
 "Are you sure you want to delete this address?","Are you sure you want to delete this address?",module,Magento_Customer
-Weak,Weak,module,Magento_Customer
-Medium,Medium,module,Magento_Customer
-Strong,Strong,module,Magento_Customer
-"Very Strong","Very Strong",module,Magento_Customer
+Weak,Svagt,module,Magento_Customer
+Medium,Mellan,module,Magento_Customer
+Strong,Starkt,module,Magento_Customer
+"Very Strong","Väldigt starkt",module,Magento_Customer
 "Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
 "Field ","Field ",module,Magento_Dhl
 " is required."," is required.",module,Magento_Dhl
@@ -6602,7 +6602,7 @@ Keyword,Keyword,module,Magento_Ui
 "Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}.",module,Magento_Ui
 "Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Ui
-"This is a required field.","This is a required field.",module,Magento_Ui
+"This is a required field.","Detta är ett obligatoriskt fält.",module,Magento_Ui
 "Please enter positive number in this field.","Please enter positive number in this field.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30",module,Magento_Ui
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Ui
@@ -7034,7 +7034,7 @@ Comma-separated.,Comma-separated.,module,Magento_Catalog
 "Display Type","Display Type",module,Magento_Catalog
 "All products - recently added products, New products - products marked as new","All products - recently added products, New products - products marked as new",module,Magento_Catalog
 "All products","All products",module,Magento_Catalog
-"New products","New products",module,Magento_Catalog
+"New products","Nya produkter",module,Magento_Catalog
 "Display Page Control","Display Page Control",module,Magento_Catalog
 "Number of Products per Page","Number of Products per Page",module,Magento_Catalog
 "Number of Products to Display","Number of Products to Display",module,Magento_Catalog
