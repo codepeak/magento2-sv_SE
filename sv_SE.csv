@@ -925,10 +925,10 @@ Home,Home,module,Magento_Catalog
 N/A,N/A,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
-"-- Please Select --","-- Please Select --",module,Magento_Catalog
+"-- Please Select --","-- Välj --",module,Magento_Catalog
 None,None,module,Magento_Catalog
 "New Products from %1","New Products from %1",module,Magento_Catalog
-"New Products","New Products",module,Magento_Catalog
+"New Products","Nya produkter",module,Magento_Catalog
 "%1 - Special Products","%1 - Special Products",module,Magento_Catalog
 "Click for price","Click for price",module,Magento_Catalog
 "Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
