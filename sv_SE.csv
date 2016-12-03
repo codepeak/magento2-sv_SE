@@ -1383,11 +1383,11 @@ State/Province,State/Province,module,Magento_Checkout
 "My Cart (1 item)","My Cart (1 item)",module,Magento_Checkout
 "My Cart (%1 items)","My Cart (%1 items)",module,Magento_Checkout
 "My Cart","My Cart",module,Magento_Checkout
-"For delivery questions.","For delivery questions.",module,Magento_Checkout
+"For delivery questions.","För frågor kring din leverans.",module,Magento_Checkout
 "Customer is already registered","Customer is already registered",module,Magento_Checkout
 "Your session has expired","Your session has expired",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","A letter with further instructions will be sent to your email.",module,Magento_Checkout
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Checkout
+"You added %1 to your shopping cart.","Produkten %1 ligger nu i din varukorg.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Checkout
 "Out of stock","Ej i lager",module,Magento_Checkout
 "We can't find the quote item.","We can't find the quote item.",module,Magento_Checkout
@@ -2143,18 +2143,18 @@ or,or,module,Magento_Customer
 "Delete Address","Delete Address",module,Magento_Customer
 "You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
 "* Required Fields","* Required Fields",module,Magento_Customer
-Company,Company,module,Magento_Customer
-"Phone Number","Phone Number",module,Magento_Customer
+Company,Företag,module,Magento_Customer
+"Phone Number","Telefonnummer",module,Magento_Customer
 Fax,Fax,module,Magento_Customer
-Address,Address,module,Magento_Customer
-"Street Address","Street Address",module,Magento_Customer
-"Street Address %1","Street Address %1",module,Magento_Customer
-"VAT Number","VAT Number",module,Magento_Customer
-City,City,module,Magento_Customer
+Address,Adress,module,Magento_Customer
+"Street Address","Gatuadress",module,Magento_Customer
+"Street Address %1","Gatuadress %1",module,Magento_Customer
+"VAT Number","Momsregistreringsnummer",module,Magento_Customer
+City,Stad,module,Magento_Customer
 State/Province,State/Province,module,Magento_Customer
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_Customer
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Customer
-Country,Country,module,Magento_Customer
+"Zip/Postal Code","Postnummer",module,Magento_Customer
+Country,Land,module,Magento_Customer
 "It's a default billing address.","It's a default billing address.",module,Magento_Customer
 "Use as my default billing address","Use as my default billing address",module,Magento_Customer
 "It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
@@ -3030,7 +3030,7 @@ Price,Pris,module,Magento_Msrp
 "Review Order - %1","Review Order - %1",module,Magento_Multishipping
 Total,Total,module,Magento_Multishipping
 "Total for this address","Total for this address",module,Magento_Multishipping
-"Shipping Methods","Shipping Methods",module,Magento_Multishipping
+"Shipping Methods","Fraktalternativ",module,Magento_Multishipping
 "Edit Address","Edit Address",module,Magento_Multishipping
 "Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
 "Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
@@ -6166,7 +6166,7 @@ Update,Update,module,Magento_Checkout
 Cancel,Cancel,module,Magento_Checkout
 "Save in address book","Save in address book",module,Magento_Checkout
 "Estimated Total","Estimated Total",module,Magento_Checkout
-"You can create an account after checkout.","You can create an account after checkout.",module,Magento_Checkout
+"You can create an account after checkout.","Du kan skapa ett konto efter lagd order.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_Checkout
 Login,Login,module,Magento_Checkout
 Close,Close,module,Magento_Checkout
@@ -6193,13 +6193,13 @@ edit,edit,module,Magento_Checkout
 "New Address","New Address",module,Magento_Checkout
 "Shipping Methods","Shipping Methods",module,Magento_Checkout
 "Select Method","Select Method",module,Magento_Checkout
-"Method Title","Method Title",module,Magento_Checkout
-"Carrier Title","Carrier Title",module,Magento_Checkout
-Next,Next,module,Magento_Checkout
+"Method Title","Företag",module,Magento_Checkout
+"Carrier Title","Tjänst",module,Magento_Checkout
+Next,Nästa,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
-"Order Summary","Order Summary",module,Magento_Checkout
-"Item in Cart","Item in Cart",module,Magento_Checkout
-"Items in Cart","Items in Cart",module,Magento_Checkout
+"Order Summary","Sammanfattning",module,Magento_Checkout
+"Item in Cart","vara i varukorgen",module,Magento_Checkout
+"Items in Cart","varor i varukorgen",module,Magento_Checkout
 "View Details","View Details",module,Magento_Checkout
 "Contact Form","Contact Form",module,Magento_Contact
 "Name: %name","Name: %name",module,Magento_Contact
@@ -6447,8 +6447,8 @@ OK,OK,module,Magento_Catalog
 "Please select items.","Please select items.",module,Magento_Catalog
 "Choose existing category.","Choose existing category.",module,Magento_Catalog
 "Image Detail","Image Detail",module,Magento_Catalog
-Adding...,Adding...,module,Magento_Catalog
-Added,Added,module,Magento_Catalog
+Adding...,"Lägger till...",module,Magento_Catalog
+Added,Tillagd,module,Magento_Catalog
 "unselect all","unselect all",module,Magento_Catalog
 Close,Close,module,Magento_CheckoutAgreements
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
