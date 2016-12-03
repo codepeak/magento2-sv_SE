@@ -4697,16 +4697,16 @@ title,title,module,Magento_Sales
 "Status can't be unassigned, because it is used by existing order(s).","Status can't be unassigned, because it is used by existing order(s).",module,Magento_Sales
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.",module,Magento_Sales
 "We cannot determine the field name.","We cannot determine the field name.",module,Magento_Sales
-City,City,module,Magento_Sales
-Company,Company,module,Magento_Sales
-Country,Country,module,Magento_Sales
+City,Stad,module,Magento_Sales
+Company,Företag,module,Magento_Sales
+Country,Land,module,Magento_Sales
 Email,E-post,module,Magento_Sales
 "First Name","Förnamn",module,Magento_Sales
 "Last Name","Efternamn",module,Magento_Sales
 State/Province,State/Province,module,Magento_Sales
-"Street Address","Street Address",module,Magento_Sales
-"Phone Number","Phone Number",module,Magento_Sales
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Sales
+"Street Address","Gatuadress",module,Magento_Sales
+"Phone Number","Telefonnummer",module,Magento_Sales
+"Zip/Postal Code","Postnummer",module,Magento_Sales
 "We can't save the address:\n%1","We can't save the address:\n%1",module,Magento_Sales
 "Cannot save comment:\n%1","Cannot save comment:\n%1",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","We don't have enough information to save the parent transaction ID.",module,Magento_Sales
@@ -6454,8 +6454,8 @@ Close,Close,module,Magento_CheckoutAgreements
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
 " Example: "," Example: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
-"Review & Payments","Review & Payments",module,Magento_Checkout
-Shipping,Shipping,module,Magento_Checkout
+"Review & Payments","Granska & betala",module,Magento_Checkout
+Shipping,"Leveransalternativ",module,Magento_Checkout
 "Save Address","Save Address",module,Magento_Checkout
 "We could not detect a size.","We could not detect a size.",module,Magento_Cms
 "New Product Review","New Product Review",module,Magento_ConfigurableProduct
