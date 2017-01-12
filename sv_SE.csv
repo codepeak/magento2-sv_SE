@@ -732,7 +732,7 @@ Relevance,Relevance,module,Magento_CatalogSearch
 "%1 and greater","%1 and greater",module,Magento_CatalogSearch
 "up to %1","up to %1",module,Magento_CatalogSearch
 Category,Category,module,Magento_CatalogSearch
-"%1 and above","%1 and above",module,Magento_CatalogSearch
+"%1 and above","%1 och uppåt",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
 "Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch
@@ -1063,7 +1063,7 @@ Category,Category,module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","The filter must be an object. Please set the correct filter.",module,Magento_Catalog
 "Clear Price","Clear Price",module,Magento_Catalog
-"%1 and above","%1 and above",module,Magento_Catalog
+"%1 and above","%1 och uppåt",module,Magento_Catalog
 "The filters must be an array.","The filters must be an array.",module,Magento_Catalog
 "Product was not registered","Product was not registered",module,Magento_Catalog
 "Store was not registered","Store was not registered",module,Magento_Catalog
@@ -1270,7 +1270,7 @@ Backorders,Backorders,module,Magento_Catalog
 "Sort Custom Option","Sort Custom Option",module,Magento_Catalog
 "Item Price","Item Price",module,Magento_Catalog
 Action,Action,module,Magento_Catalog
-"and above","and above",module,Magento_Catalog
+"and above","och uppåt",module,Magento_Catalog
 "Delete Tier","Delete Tier",module,Magento_Catalog
 "Product In Websites","Product In Websites",module,Magento_Catalog
 "(Copy data from: %1)","(Copy data from: %1)",module,Magento_Catalog
@@ -1318,12 +1318,12 @@ Prev,Prev,module,Magento_Catalog
 Next,Next,module,Magento_Catalog
 "We can't find products matching the selection.","Vi kan inte hitta produkter som överensstämmer med urvalet.",module,Magento_Catalog
 "Add to Compare","Add to Compare",module,Magento_Catalog
-"Learn More","Learn More",module,Magento_Catalog
+"Learn More","Mer information",module,Magento_Catalog
 "We found other products you might like!","We found other products you might like!",module,Magento_Catalog
 "More Choices:","More Choices:",module,Magento_Catalog
 "Check items to add to the cart or","Check items to add to the cart or",module,Magento_Catalog
 "select all","select all",module,Magento_Catalog
-"Items %1-%2 of %3","Items %1-%2 of %3",module,Magento_Catalog
+"Items %1-%2 of %3","Produkter %1-%2 av %3",module,Magento_Catalog
 "%1 Item","%1 Item",module,Magento_Catalog
 "%1 Items","%1 Items",module,Magento_Catalog
 Show,Show,module,Magento_Catalog
@@ -2971,7 +2971,7 @@ Position,Position,module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Position of attribute in layered navigation block.",module,Magento_LayeredNavigation
 item,item,module,Magento_LayeredNavigation
 items,items,module,Magento_LayeredNavigation
-"Now Shopping by","Now Shopping by",module,Magento_LayeredNavigation
+"Now Shopping by","Produktfilter",module,Magento_LayeredNavigation
 Previous,Previous,module,Magento_LayeredNavigation
 Remove,Remove,module,Magento_LayeredNavigation
 "Remove This Item","Remove This Item",module,Magento_LayeredNavigation
@@ -3147,8 +3147,8 @@ Preview,Preview,module,Magento_Newsletter
 "No Templates Found","No Templates Found",module,Magento_Newsletter
 ID,ID,module,Magento_Newsletter
 Template,Template,module,Magento_Newsletter
-Added,Added,module,Magento_Newsletter
-Updated,Updated,module,Magento_Newsletter
+Added,Tillagd,module,Magento_Newsletter
+Updated,Uppdaterad,module,Magento_Newsletter
 Sender,Sender,module,Magento_Newsletter
 "Template Type","Template Type",module,Magento_Newsletter
 Action,Action,module,Magento_Newsletter
@@ -3227,7 +3227,7 @@ Region/State,Region/State,module,Magento_OfflineShipping
 "Weight vs. Destination","Weight vs. Destination",module,Magento_OfflineShipping
 "Price vs. Destination","Price vs. Destination",module,Magento_OfflineShipping
 "# of Items vs. Destination","# of Items vs. Destination",module,Magento_OfflineShipping
-"Weight (and above)","Weight (and above)",module,Magento_OfflineShipping
+"Weight (and above)","Vikt (och uppåt)",module,Magento_OfflineShipping
 "Order Subtotal (and above)","Order Subtotal (and above)",module,Magento_OfflineShipping
 "# of Items (and above)","# of Items (and above)",module,Magento_OfflineShipping
 "Please correct Table Rate code type: %1.","Please correct Table Rate code type: %1.",module,Magento_OfflineShipping
@@ -3338,7 +3338,7 @@ sandbox_button_label,sandbox_button_label,module,Magento_Paypal
 Help,Help,module,Magento_Paypal
 Configure,Configure,module,Magento_Paypal
 Close,Close,module,Magento_Paypal
-"Learn More","Learn More",module,Magento_Paypal
+"Learn More","Mer information",module,Magento_Paypal
 "View Demo","View Demo",module,Magento_Paypal
 "See terms","See terms",module,Magento_Paypal
 "You will be redirected to the PayPal website.","You will be redirected to the PayPal website.",module,Magento_Paypal
@@ -3993,7 +3993,7 @@ Error,Error,module,Magento_Reports
 "Add to Wish List","Add to Wish List",module,Magento_Reports
 "Add to Compare","Add to Compare",module,Magento_Reports
 "Recently Compared","Recently Compared",module,Magento_Reports
-"Learn More","Learn More",module,Magento_Reports
+"Learn More","Mer information",module,Magento_Reports
 "Save Review","Save Review",module,Magento_Review
 "New Review","New Review",module,Magento_Review
 "Review Details","Review Details",module,Magento_Review
@@ -5541,7 +5541,7 @@ Remove,Remove,module,Magento_Theme
 "Local Storage seems to be disabled in your browser.","Local Storage seems to be disabled in your browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","For the best experience on our site, be sure to turn on Local Storage in your browser.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","This is demo store. No orders will be fulfilled.",module,Magento_Theme
-"Items %1 to %2 of %3 total","Items %1 to %2 of %3 total",module,Magento_Theme
+"Items %1 to %2 of %3 total","Produkter %1 till %2 av totalt %3",module,Magento_Theme
 "%1 Item","%1 produkt",module,Magento_Theme
 "%1 Item(s)","%1 produkter",module,Magento_Theme
 Page,Page,module,Magento_Theme
@@ -6049,7 +6049,7 @@ Page,Page,module,Magento_Widget
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","We can't add the item to Wish List right now.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Produkten %1 ligger nu i din varukorg.",module,Magento_Wishlist
 "This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","We can't load the Wish List item right now.",module,Magento_Wishlist
@@ -6132,7 +6132,7 @@ Back,Tillbaka,module,Magento_Wishlist
 "Remove This Item","Remove This Item",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
 "You have no items in your wish list.","You have no items in your wish list.",module,Magento_Wishlist
-"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
+"Now Shopping by","Produktfilter",theme,frontend/Magento/luma
 Previous,Previous,theme,frontend/Magento/luma
 Remove,Remove,theme,frontend/Magento/luma
 "Remove This Item","Remove This Item",theme,frontend/Magento/luma
