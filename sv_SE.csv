@@ -1313,7 +1313,7 @@ Role,Role,module,Magento_Catalog
 "You have no items to compare.","You have no items to compare.",module,Magento_Catalog
 "Remove This Item","Remove This Item",module,Magento_Catalog
 Compare,Compare,module,Magento_Catalog
-"Clear All","Clear All",module,Magento_Catalog
+"Clear All","Rensa alla",module,Magento_Catalog
 Prev,Prev,module,Magento_Catalog
 Next,Next,module,Magento_Catalog
 "We can't find products matching the selection.","Vi kan inte hitta produkter som överensstämmer med urvalet.",module,Magento_Catalog
@@ -2976,7 +2976,7 @@ Previous,Previous,module,Magento_LayeredNavigation
 Remove,Remove,module,Magento_LayeredNavigation
 "Remove This Item","Remove This Item",module,Magento_LayeredNavigation
 "Shop By","Shop By",module,Magento_LayeredNavigation
-"Clear All","Clear All",module,Magento_LayeredNavigation
+"Clear All","Rensa alla",module,Magento_LayeredNavigation
 "Shopping Options","Shopping Options",module,Magento_LayeredNavigation
 Partners,Partners,module,Magento_Marketplace
 "Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
@@ -6137,7 +6137,7 @@ Previous,Previous,theme,frontend/Magento/luma
 Remove,Remove,theme,frontend/Magento/luma
 "Remove This Item","Remove This Item",theme,frontend/Magento/luma
 "Shop By","Shop By",theme,frontend/Magento/luma
-"Clear All","Clear All",theme,frontend/Magento/luma
+"Clear All","Rensa alla",theme,frontend/Magento/luma
 "Shopping Options","Shopping Options",theme,frontend/Magento/luma
 "Place Order","Place Order",module,Magento_Authorizenet
 "Credit Card Information","Credit Card Information",module,Magento_Braintree
