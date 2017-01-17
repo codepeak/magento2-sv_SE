@@ -1303,14 +1303,14 @@ Role,Role,module,Magento_Catalog
 "Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
 "Shop By","Shop By",module,Magento_Catalog
 "Shopping Options","Shopping Options",module,Magento_Catalog
-"Compare Products","Compare Products",module,Magento_Catalog
+"Compare Products","Jämför produkter",module,Magento_Catalog
 "Print This Page","Print This Page",module,Magento_Catalog
 "Remove Product","Remove Product",module,Magento_Catalog
 "Add to Cart","Lägg i varukorgen",module,Magento_Catalog
 "In stock","I lager",module,Magento_Catalog
 "Out of stock","Ej i lager",module,Magento_Catalog
 "Add to Wish List","Add to Wish List",module,Magento_Catalog
-"You have no items to compare.","You have no items to compare.",module,Magento_Catalog
+"You have no items to compare.","Du har inga produkter att jämföra",module,Magento_Catalog
 "Remove This Item","Remove This Item",module,Magento_Catalog
 Compare,Compare,module,Magento_Catalog
 "Clear All","Rensa alla",module,Magento_Catalog
@@ -1455,7 +1455,7 @@ Subtotal,Subtotal,module,Magento_Checkout
 "Edit item parameters","Edit item parameters",module,Magento_Checkout
 Edit,"Ändra",module,Magento_Checkout
 "Remove item","Ta bort",module,Magento_Checkout
-"You have no items in your shopping cart.","You have no items in your shopping cart.",module,Magento_Checkout
+"You have no items in your shopping cart.","Du har inga varor i din varukorg",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Checkout
 "Estimate Tax","Estimate Tax",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
@@ -6043,7 +6043,7 @@ Apply,Apply,module,Magento_Widget
 Page,Page,module,Magento_Widget
 "Wish List","Wish List",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","My Wish List",module,Magento_Wishlist
+"My Wish List","Min önskelista",module,Magento_Wishlist
 "%1's Wish List","%1's Wish List",module,Magento_Wishlist
 "Page not found.","Page not found.",module,Magento_Wishlist
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
@@ -6131,7 +6131,7 @@ Back,Tillbaka,module,Magento_Wishlist
 "Last Added Items","Last Added Items",module,Magento_Wishlist
 "Remove This Item","Remove This Item",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","You have no items in your wish list.",module,Magento_Wishlist
+"You have no items in your wish list.","Du har inga produkter i din önskelista.",module,Magento_Wishlist
 "Now Shopping by","Produktfilter",theme,frontend/Magento/luma
 Previous,Previous,theme,frontend/Magento/luma
 Remove,Remove,theme,frontend/Magento/luma
@@ -7989,8 +7989,8 @@ Frequency,Frequency,module,Magento_ProductAlert
 "Show related video","Show related video",module,Magento_ProductVideo
 "Auto restart video","Auto restart video",module,Magento_ProductVideo
 "Images And Videos","Images And Videos",module,Magento_ProductVideo
-Carts,Carts,module,Magento_Quote
-"Manage carts","Manage carts",module,Magento_Quote
+Carts,Varukorgar,module,Magento_Quote
+"Manage carts","Hantera varukorgar",module,Magento_Quote
 Marketing,Marketing,module,Magento_Reports
 "Products in Cart","Products in Cart",module,Magento_Reports
 "Abandoned Cart","Abandoned Cart",module,Magento_Reports
