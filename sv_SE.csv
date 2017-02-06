@@ -113,7 +113,7 @@ Price,Pris,module,Magento_Backend
 Quantity,Quantity,module,Magento_Backend
 Views,Views,module,Magento_Backend
 Revenue,Revenue,module,Magento_Backend
-Tax,Tax,module,Magento_Backend
+Tax,Moms,module,Magento_Backend
 Shipping,Shipping,module,Magento_Backend
 "Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
 "Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
@@ -570,7 +570,7 @@ To,To,module,Magento_Bundle
 Availability,Availability,module,Magento_Bundle
 "In stock","I lager",module,Magento_Bundle
 "Out of stock","Ej i lager",module,Magento_Bundle
-Summary,Summary,module,Magento_Bundle
+Summary,Sammanfattning,module,Magento_Bundle
 "%1 x %2","%1 x %2",module,Magento_Bundle
 Availability:,Availability:,module,Magento_Bundle
 Quantity,Quantity,module,Magento_Bundle
@@ -1445,7 +1445,7 @@ Message,Message,module,Magento_Checkout
 Item,Vara,module,Magento_Checkout
 Price,Pris,module,Magento_Checkout
 Qty,Antal,module,Magento_Checkout
-Subtotal,Subtotal,module,Magento_Checkout
+Subtotal,Delsumma,module,Magento_Checkout
 "Continue Shopping","Fortsätt handla",module,Magento_Checkout
 "Clear Shopping Cart","Töm varukorg",module,Magento_Checkout
 "Update Shopping Cart","Uppdatera varukorg",module,Magento_Checkout
@@ -1458,7 +1458,7 @@ Edit,"Ändra",module,Magento_Checkout
 "You have no items in your shopping cart.","Du har inga varor i din varukorg",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Checkout
 "Estimate Tax","Estimate Tax",module,Magento_Checkout
-"Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
+"Estimate Shipping and Tax","Uppskatta pris",module,Magento_Checkout
 "Excl. Tax","Excl. Tax",module,Magento_Checkout
 Loading...,Loading...,module,Magento_Checkout
 "Order #","Order #",module,Magento_Checkout
@@ -3897,7 +3897,7 @@ Invoiced,Invoiced,module,Magento_Reports
 Paid,Paid,module,Magento_Reports
 Refunded,Refunded,module,Magento_Reports
 "Sales Tax","Sales Tax",module,Magento_Reports
-Tax,Tax,module,Magento_Reports
+Tax,Moms,module,Magento_Reports
 "Sales Shipping","Sales Shipping",module,Magento_Reports
 Shipping,Shipping,module,Magento_Reports
 Canceled,Canceled,module,Magento_Reports
@@ -4111,7 +4111,7 @@ Back,Tillbaka,module,Magento_Review
 "You're reviewing:","You're reviewing:",module,Magento_Review
 "Your Rating","Your Rating",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
-Summary,Summary,module,Magento_Review
+Summary,Sammanfattning,module,Magento_Review
 "Submit Review","Submit Review",module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
 "Add Your Review","Add Your Review",module,Magento_Review
@@ -4673,7 +4673,7 @@ Number,Number,module,Magento_Sales
 Products,Products,module,Magento_Sales
 "Total (ex)","Total (ex)",module,Magento_Sales
 Qty,Antal,module,Magento_Sales
-Tax,Tax,module,Magento_Sales
+Tax,Moms,module,Magento_Sales
 "Total (inc)","Total (inc)",module,Magento_Sales
 "Credit Memo # ","Credit Memo # ",module,Magento_Sales
 "Invoice # ","Invoice # ",module,Magento_Sales
@@ -5337,7 +5337,7 @@ Priority,Priority,module,Magento_Tax
 "Grand Total (Excl.Tax)","Grand Total (Excl.Tax)",module,Magento_Tax
 "Grand Total (Incl.Tax)","Grand Total (Incl.Tax)",module,Magento_Tax
 Sales,Sales,module,Magento_Tax
-Tax,Tax,module,Magento_Tax
+Tax,Moms,module,Magento_Tax
 "Manage Tax Rates","Manage Tax Rates",module,Magento_Tax
 "New Tax Rate","New Tax Rate",module,Magento_Tax
 "Tax Zones and Rates","Tax Zones and Rates",module,Magento_Tax
@@ -5975,7 +5975,7 @@ label_value,label_value,module,Magento_Weee
 frontend_label,frontend_label,module,Magento_Weee
 "Fixed Product Tax","Fixed Product Tax",module,Magento_Weee
 Country/State,Country/State,module,Magento_Weee
-Tax,Tax,module,Magento_Weee
+Tax,Moms,module,Magento_Weee
 Website,Website,module,Magento_Weee
 Action,Action,module,Magento_Weee
 "Excl. Tax","Excl. Tax",module,Magento_Weee
@@ -7132,8 +7132,8 @@ Details,Detaljer,module,Magento_Catalog
 "Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
 "Separate by "","".","Separate by "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
-Summary,Summary,module,Magento_Checkout
-"Order Total","Order Total",module,Magento_Checkout
+Summary,Sammanfattning,module,Magento_Checkout
+"Order Total","Totalt",module,Magento_Checkout
 "We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
 Payment,Payment,module,Magento_Checkout
 "Not yet calculated","Not yet calculated",module,Magento_Checkout
