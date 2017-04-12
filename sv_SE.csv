@@ -933,7 +933,7 @@ None,None,module,Magento_Catalog
 "Click for price","Click for price",module,Magento_Catalog
 "Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
 "Price: %1","Price: %1",module,Magento_Catalog
-"Special Price: %1","Special Price: %1",module,Magento_Catalog
+"Special Price: %1","Specialpris: %1",module,Magento_Catalog
 "Special Products","Special Products",module,Magento_Catalog
 "Manage Catalog Categories","Manage Catalog Categories",module,Magento_Catalog
 "Manage Categories","Manage Categories",module,Magento_Catalog
@@ -1173,7 +1173,7 @@ Select...,Select...,module,Magento_Catalog
 "Advanced Pricing","Advanced Pricing",module,Magento_Catalog
 "Tier Price","Tier Price",module,Magento_Catalog
 "Customer Group","Customer Group",module,Magento_Catalog
-"Special Price From","Special Price From",module,Magento_Catalog
+"Special Price From","Specialpris från",module,Magento_Catalog
 To,To,module,Magento_Catalog
 Done,Done,module,Magento_Catalog
 "Add Selected","Add Selected",module,Magento_Catalog
@@ -1296,8 +1296,8 @@ Role,Role,module,Magento_Catalog
 "Unselect All","Unselect All",module,Magento_Catalog
 "Select Visible","Select Visible",module,Magento_Catalog
 "Unselect Visible","Unselect Visible",module,Magento_Catalog
-"Special Price","Special Price",module,Magento_Catalog
-"Regular Price","Regular Price",module,Magento_Catalog
+"Special Price","Specialpris",module,Magento_Catalog
+"Regular Price","Vanligt pris",module,Magento_Catalog
 "Buy %1 for: ","Buy %1 for: ",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
@@ -4232,7 +4232,7 @@ Discount,Discount,module,Magento_SalesRule
 Auto,Auto,module,Magento_SalesRule
 "Can't acquire coupon.","Can't acquire coupon.",module,Magento_SalesRule
 "Update the Product","Update the Product",module,Magento_SalesRule
-"Special Price","Special Price",module,Magento_SalesRule
+"Special Price","Specialpris",module,Magento_SalesRule
 "To Fixed Value","To Fixed Value",module,Magento_SalesRule
 "To Percentage","To Percentage",module,Magento_SalesRule
 "By Fixed value","By Fixed value",module,Magento_SalesRule
